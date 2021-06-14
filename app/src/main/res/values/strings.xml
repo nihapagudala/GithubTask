@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github Task</string>
+
+    <string name="con_time_out">The connection has timed out, please try again</string>
+    <string name="something">Something went wrong, please try again</string>
+    <string name="jsonreader">Malformed Json Exception</string>
+    <string name="server_not">Server not responding, Please try later</string>
+    <string name="plz_check_int">No network connectivity found, please check your internet connection</string>
+    <string name="no_records_found">No Records Found</string>
+
+</resources>
